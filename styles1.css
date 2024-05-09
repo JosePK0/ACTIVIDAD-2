@@ -1,0 +1,93 @@
+.nav {
+    width: 1000px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.header{
+    width: 1000px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+.content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column; 
+}
+.main{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.footer{
+    width: 1000px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #d50980;
+    display: flex;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: #b82525;
+}
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: #c80bf8;
+}
+.box3{
+    width: 200px;
+    height: 100px;
+    background-color: #ef349b;
+}
+.box4{
+    width: 200px;
+    height: 100px;
+    background-color: #a7496d;
+}
+.box5{
+    width: 200px;
+    height: 100px;
+    background-color: #f80b2b;
+}
+
+.Banner{
+    width: 800px;
+    height: 300px;
+    background-color: #056e9b;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+    background-color: #34f005;
+}
+.login{
+    width: 200px;
+    height: 100px;
+    background-color: #1a7902;
+}
+.form{
+    width: 200px;
+    height: 100px;
+    background-color: #2e8219;
+}
+.aside{
+    width: 200px;
+    height: 500px;
+    background-color: #0cb0ec;
+}
+.article{
+    width: 600px;
+    height: 500px;
+    background-color: #193a82;
+}
+
+
